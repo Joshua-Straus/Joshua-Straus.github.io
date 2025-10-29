@@ -49,7 +49,7 @@ p {
 }
 
 .split img {
-  width: 45%;
+  width: 30%;
   border-radius: 8px;
 }
 
@@ -72,7 +72,7 @@ p {
 }
 
 #greed_image {
-    width: 60%;
+    width: 30%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -80,7 +80,7 @@ p {
 }
 
 #dp_image {
-    width: 60%;
+    width: 30%;
     display: block;
     margin-left: auto;
     margin-right: auto;
